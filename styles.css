@@ -1,0 +1,13 @@
+body {
+    background-color: #84a98c;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.books {
+    width: 500px;
+}
